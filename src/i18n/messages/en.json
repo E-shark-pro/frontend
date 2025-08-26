@@ -1,0 +1,24 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login",
+    "trial": "Start Free Trial",
+    "darkMode": "Dark Mode",
+    "grads": "Grades",
+    "materials": "Materials",
+    "lightMode": "Light Mode"
+  },
+  "hero": {
+    "badge": "🚀 Transform Your Teaching Into Profit",
+    "title": "Transform Teaching",
+    "titleHighlight": "into a Business",
+    "description": "E Shark empowers teachers and educators to create, sell, and manage online courses with AI-powered tools, comprehensive student management, and everything you need to build a thriving educational business.",
+    "startTrial": "Start Free Trial",
+    "watchDemo": "Watch Demo",
+    "educators": "Active Educators",
+    "students": "Students Enrolled",
+    "revenue": "Revenue Generated"
+  }
+}
